@@ -1,0 +1,30 @@
+{
+  "name": "node-sandbox",
+  "version": "1.0.0",
+  "description": "Barebones starting point for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://TylerGarlick@github.com/helio-training/node-sandbox.git"
+  },
+  "author": "Tyler Garlick <tyler.garlick@heliotraining.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helio-training/node-sandbox/issues"
+  },
+  "homepage": "https://github.com/helio-training/node-sandbox#readme",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2",
+    "babel-eslint": "^6.1.2",
+    "babel-preset-pundits": "^1.0.6",
+    "babel-register": "^6.11.6",
+    "code": "^3.0.2",
+    "eslint": "^3.3.1",
+    "eslint-config-pundits": "^1.0.0",
+    "mocha": "^3.0.2"
+  }
+}
